@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Surronaldo/practise/issues"
   },
-  "homepage": "https://github.com/Surronaldo/practise#readme"
+  "homepage": "https://github.com/Surronaldo/practise#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
